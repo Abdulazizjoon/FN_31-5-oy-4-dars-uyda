@@ -1,0 +1,16 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.5s;
+}
+body{
+    height: 80vh;
+    background-image: url(./img/test.jpg);
+}
+html{
+    height: 80vh;
+}
